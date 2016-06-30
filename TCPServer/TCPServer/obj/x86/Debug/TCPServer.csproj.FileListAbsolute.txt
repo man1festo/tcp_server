@@ -1,0 +1,31 @@
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\TCPServer.Form1.resources
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\TCPServer.Properties.Resources.resources
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+d:\users\ret\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.Form1.resources
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.Properties.Resources.resources
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\учеба\3 семестр\лаба по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.Form1.resources
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.Properties.Resources.resources
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\учеба\3 семестр\пооп\лабы по ооп\лр2-3\Attachments_ret1987@yandex.ru_2012-10-17_17-38-10\ЛР 2\TCPServer\TCPServer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\лр2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+F:\лр2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+E:\разобрать\лр2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+E:\разобрать\лр2\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
